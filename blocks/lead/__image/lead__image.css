@@ -1,0 +1,18 @@
+.lead__image {
+  width: 100%;
+  margin: 64px 0 0 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__image {
+    margin: 56px 48px 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__image {
+    margin: 40px 0 0 0;
+  }
+}
