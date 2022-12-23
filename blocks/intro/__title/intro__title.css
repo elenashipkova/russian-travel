@@ -9,33 +9,10 @@
   width: 100%;
 }
 
-@media screen and (max-width: 1279px) {
-  .intro__title {
-    width: 93.75vw;
-  }
-}
-
-@media screen and (max-width: 1023px) {
-  .intro__title {
-    width: 93.75vw;
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .intro__title {
-    width: 93.75vw;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .intro__title {
-    width: 288px;
-  }
-}
-
 @media screen and (max-width: 360px) {
   .intro__title {
     font-size: 32px;
     line-height: 1.09;
+    max-width: 288px;
   }
 }

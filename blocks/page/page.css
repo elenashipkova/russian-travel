@@ -1,6 +1,4 @@
 .page {
-  max-width: 1280px;
-  margin: 0 auto;
   font-family: 'Inter', 'Arial', sans-serif;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -9,7 +7,4 @@
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   background: #2A2C2F;
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
 }
