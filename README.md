@@ -20,4 +20,4 @@
 - адаптивная верстка
 - файловая структура в соответствии с БЭМ (Nested)
 
-##### Демо на github pages
+##### Демо проекта на github pages [Путешествия по России](https://elenashipkova.github.io/russian-travel/)
