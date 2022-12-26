@@ -14,10 +14,15 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 687px) {
+@media screen and (max-width: 650px) {
+  .footer__link {
+    margin-bottom: 32px;
+  }
+}
+
+@media screen and (max-width: 320px) {
   .footer__link {
     font-size: 24px;
     line-height: 1;
-    margin-bottom: 32px;
   }
 }

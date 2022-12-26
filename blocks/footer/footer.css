@@ -3,35 +3,31 @@
   flex-direction: row;
   justify-content: space-between;
   max-width: 1184px;
-  padding: 92px 0 24px;
-  width: 92.5vw;
+  padding: 92px 0 0;
+  width: 100%;
   margin: 0 auto;
+  margin-bottom: 24px;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1024px) {
   .footer {
-    padding: 88px 0 24px;
+    padding: 92px 48px 0;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .footer {
-    padding: 88px 24px 24px;
+    padding: 88px 24px 0;
   }
 }
 
-@media screen and (max-width: 687px) {
+@media screen and (max-width: 610px) {
   .footer {
-    padding: 64px 0 24px 16px;
+    padding: 64px 0 0 16px;
     flex-direction: column;
     max-width: 186px;
     box-sizing: content-box;
     margin-left: 0;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .footer {
-    align-self: flex-start;
   }
 }

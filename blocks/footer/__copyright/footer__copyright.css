@@ -8,9 +8,10 @@
   margin: 0;
 }
 
-@media screen and (max-width: 687px) {
+@media screen and (max-width: 650px) {
   .footer__copyright {
     text-align: left;
     margin-top: 16px;
+    align-items: flex-end;
   }
 }

@@ -1,11 +1,6 @@
 .cover {
   max-width: 1184px;
-  display: block;
-  width: 92.5%;
-}
-
-@media screen and (max-width: 1024px) {
-  .cover {
-    width: 100vw;
-  }
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
 }

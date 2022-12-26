@@ -7,20 +7,20 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
   .places {
-    padding: 0 48px 92px;
+    padding: 92px 48px;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .places {
-    padding: 0 24px 72px;
+    padding: 0 24px 90px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .places {
-    padding: 0 0 0 0;
+    padding: 0 0 66px 0;
   }
 }
