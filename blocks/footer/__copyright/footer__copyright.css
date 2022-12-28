@@ -8,7 +8,7 @@
   margin: 0;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 767px) {
   .footer__copyright {
     text-align: left;
     margin-top: 16px;
