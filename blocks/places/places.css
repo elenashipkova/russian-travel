@@ -3,23 +3,23 @@
   flex-direction: column;
   max-width: 984px;
   margin: 0 auto;
-  padding: 92px 0;
+  padding: 0 0 92px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1260px) {
   .places {
     max-width: calc(100% - 2 * 48px);
   }
 }
 
-@media screen and (max-width: 824px) {
+@media screen and (max-width: 1023px) {
   .places {
     max-width: calc(100% - 2 * 24px);
     padding: 0 0 90px;
   }
 }
 
-@media screen and (max-width: 610px) {
+@media screen and (max-width: 767px) {
   .places {
     max-width: 100%;
     padding: 0 0 66px 0;

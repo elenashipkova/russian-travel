@@ -1,6 +1,6 @@
 .photo-grid {
   width: 92.5%;
-  padding: 0;
+  padding: 0 0 92px;
   margin: 0 auto;
 }
 
@@ -14,7 +14,7 @@
   .photo-grid {
     width: 93.75%;
     max-width: calc(100% - 40px);
-    padding: 88px 0;
+    padding: 88px 0; 
   }
 }
 
